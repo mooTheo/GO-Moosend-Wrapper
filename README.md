@@ -1,6 +1,6 @@
 # Moosend Go Wrapper
 
-The following project is a Ruby implementation of the Moosend V3 API.
+The following project is a GO implementation of the Moosend V3 API.
 You can find the API documentation at http://docs.moosendapp.apiary.io/#
 
 ## Installation
